@@ -20,7 +20,7 @@ I am a self taught web developer.
 
 
 
-
+<h3 align="center">Profile stats</h3>
 
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=srishtigupta20&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Srishti's github stats" /></a> | <a href="https://github.com/srishtigupta20/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srishtigupta20&layout=compact&theme=nightowl&hide_border=true" /></a> |
 | ------------- | ------------- |
