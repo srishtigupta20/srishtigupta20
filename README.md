@@ -1,6 +1,8 @@
-### Hi there 👋
+<h3 align="center"> Hi there 👋 </h3>
+<h4 align="center"> Srishti Gupta here! </h4>
+<hr>
 
-Srishti Gupta here!
+
 
 I am a self taught web developer. 
 
