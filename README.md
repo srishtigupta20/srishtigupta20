@@ -9,9 +9,9 @@ I am a self taught web developer.
 - 🤔 I’m looking for help with my placements
 - 💬 Ask me about ...
 - 📫 How to reach me: 
-**Twitter**<a href='https://twitter.com/srishti20_'/>
+<p>**Twitter**<a href='https://twitter.com/srishti20_'/></p>
 </br>
-**LinkedIn**<a href ='https://www.linkedin.com/in/srishtigupta-20/'/>
+<p>**LinkedIn**<a href ='https://www.linkedin.com/in/srishtigupta-20/'/></p></br>
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to read books📚 ( currently reading murder on the orient express).
 - I am a technical writer at Scaler Academy.
