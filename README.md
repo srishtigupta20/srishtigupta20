@@ -10,7 +10,7 @@ I am a self taught web developer.
 - 🌱 I’m currently learning DSA using C++ and practicing SQL on Leetcode.
 - 💬 Ask me about web development, DSA.
 - I write blogs on Medium and hashnode.
-- 📫 How to reach me: srishti.gupta.8328@gmail.com
+- 📫 Reach me through: srishti.gupta.8328@gmail.com
 - 😄 Pronouns: she/her
 - I am a technical writer at Scaler Academy.
 
