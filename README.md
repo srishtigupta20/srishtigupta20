@@ -7,7 +7,7 @@
 I am a self taught web developer. 
 
 - 🔭 I’m currently working on my portfolio using React Js.
-- 🌱 I’m currently learning DSA using C++ and practicing SQL on Leetcode.
+- 🌱 I’m currently learning DSA using Java and practicing SQL on Leetcode.
 - 💬 Ask me about web development, DSA.
 - I write blogs on Medium and hashnode.
 - 📫 Reach me through: srishti.gupta.8328@gmail.com
