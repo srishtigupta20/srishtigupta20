@@ -12,7 +12,7 @@ I am a self taught web developer.
 - I write blogs on Medium and hashnode.
 - 📫 Reach me through: srishti.gupta.8328@gmail.com
 - 😄 Pronouns: she/her
-- I am a technical writer at Scaler Academy.
+- I am a full time Full Stack Developer.
 
 <h3 align="center">Connect with me on: </h3>
 <a href="https://www.linkedin.com/in/srishtigupta-20/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="40px"></a></img>
